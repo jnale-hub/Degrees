@@ -18,6 +18,7 @@ Name: Jennifer Lawrence
 
 ### How to Run
 Requires Python(3) to run:
+
 Small database usage:
 `$ python degrees.py small`
 
