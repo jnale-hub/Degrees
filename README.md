@@ -1,7 +1,7 @@
 # Degrees
 AI Algorithm using Breadth-First Search that looks into IMDB database and finds how many “degrees of separation” between two actors.
 
-### Task
+## Task
 Write a program that determines how many "degrees of separation" apart two actors are, behaving as shown below:
 ```
 $ python degrees.py large
@@ -16,7 +16,7 @@ Name: Jennifer Lawrence
 ```
 [View the full assignment description on CS50's OpenCourseWare](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)
 
-### How to Run
+## How to Run
 Requires Python(3) to run:
 
 Small database usage:
@@ -25,5 +25,5 @@ Small database usage:
 Large database usage:
 `$ python degrees.py large OR $ python degrees.py`
 
-### Acknowledgements
+## Acknowledgements
 Actor / Movie information courtesy of IMDb.
